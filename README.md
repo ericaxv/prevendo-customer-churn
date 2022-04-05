@@ -1,3 +1,5 @@
+![alt text](imagem/customer-churn-image.png)
+<br/>
 # Projeto Prevendo Customer Churn em Operadora de Telecom
 _Treinamento Curso Big Data Analytics com Python e Spark - Data Science Academy_
 
@@ -5,3 +7,5 @@ Customer Churn, ou rotatividade de Clientes, refere-se a decisão do cliente sob
 Dessa forma, é importante prever os usuários que provavelmente abandonarão o relacionamento comercial e os fatores que afetam as decisões do cliente.
 
 O objetivo do projeto é prever se o cliente irá cancelar o relacionamento comercial ou não.
+
+O treinamento engloba análise exploratória, pré-processaemnto, algoritmo de Regressão Logistica entre outras informações.
